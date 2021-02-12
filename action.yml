@@ -1,4 +1,4 @@
-name: 'Download Release Assets'
+name: 'Get Release Assets'
 description: 'Download GitHub release assets by version with support for regex in asset name search'
 branding:
   icon: download
