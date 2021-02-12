@@ -1,7 +1,7 @@
-download-release-assets
+get-release-assets
 =======================
 
-This action downloads a specific release's asset by matching asset name.
+This action downloads a specific release's asset by matching asset name, and sets a release output variable
 
 Usage
 -----
